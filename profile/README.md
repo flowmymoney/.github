@@ -25,4 +25,4 @@ pandemia de COVID-19.
 
 Tendo em vista todo esse cenário, é necessário auxiliar os brasileiros através do planejamento, previsibilidade, rastreamento e monitorando dos gastos, fazendo com que tenha consciência do que está acontecendo com seu dinheiro através de insights e relatórios sobre suas finanças.
 
-Sendo assim, é necessário desenvolver um software que auxilie famílias em vulnerabilidade financeira e/ou com má gestão dos recursos a estabilizar as finanças realizando uma melhor gestão dos recusos, para que possam levar qualidade de vida para o ambiente familiar no presente e no futuro, quando dependerão de retornos financeiros para se aposentarem.
+Sendo assim, é necessário desenvolver um software que auxilie famílias em vulnerabilidade financeira e/ou com má gestão dos recursos a estabilizar as finanças, para poderem levar qualidade de vida e tranquilidade para o ambiente familiar no presente e no futuro, quando dependerão de retornos financeiros para se aposentarem.
