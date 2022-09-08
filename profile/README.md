@@ -11,8 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-[![wakatime](https://wakatime.com/badge/user/12459a56-3f92-4881-b7a4-d675c1c81cf0/project/44bdb395-abdc-4b6d-8201-c1ddedb72caf.svg)](https://wakatime.com/badge/user/12459a56-3f92-4881-b7a4-d675c1c81cf0/project/44bdb395-abdc-4b6d-8201-c1ddedb72caf)
-
 # flowmy.money
 
 flowmy.money é software de gestão de finanças pessoais, desenvolvido na linguagem de programação PHP sobre o ecossistema do Laravel Framework.
