@@ -1,18 +1,29 @@
-# flowmy.money
-Não deixe suas finanças ao acaso, chega de preocupações e desorganização, é hora de tomar o controle! Com [flowmy.money](http://flowmy.money/) você terá todas as informações necessárias para tomar decisões inteligentes sobre seu dinheiro, transforme o modo com que você lida com o dinheiro e administre suas finanças como nunca. [flowmy.money](http://flowmy.money/) é intuitivo, mesmo para aqueles que não têm o hábito de cuidar das finanças. Seja livre das dificuldades da administração financeira e abra espaço para a agilidade aliada a eficiência. 
+# Porque [Flowmy.money](http://flowmy.money/) existe?
 
-## Qual o objetivo do flowmy.money e por que existe?
-O endividamento entre os brasileiros é uma questão de longa data, que tem sido constantemente abordada em reportagens que destacam o preocupante aumento nos índices de inadimplência e endividamento. A situação foi agravada pela pandemia de COVID-19, que trouxe desafios adicionais para muitas famílias.
+## Contexto
 
-Nesse contexto, surgiu a necessidade de desenvolver uma solução para ajudar os brasileiros que enfrentam problemas financeiros e/ou dificuldades na gestão dos recursos. Para tal, foi criado o flowmy.money que visa proporcionar estabilidade financeira aos usuários, permitindo-lhes desfrutar de qualidade de vida e tranquilidade financeira no presente e no futuro, quando dependeram de retornos financeiros para a aposentadoria.
+É noticiado constantemente sobre os preocupantes aumentos nos índices de inadimplência e/ou endividamento. A situação foi agravada pela pandemia de COVID-19, que trouxe desafios adicionais para muitas famílias. A crise econômica resultante levou muitas famílias a enfrentarem dificuldades financeiras, aumentando os índices de inadimplência e endividamento em todo o país.
 
-O principal objetivo é fornecer ferramentas de planejamento, previsibilidade, rastreamento e monitoramento de gastos, a fim de conscientizar os usuários sobre suas finanças. Isso é alcançado através de insights detalhados e relatórios abrangentes sobre suas receitas e despesas.
+A falta de educação financeira é um dos principais fatores que contribuem para esse cenário preocupante. Muitas pessoas não têm noções básicas sobre como gerenciar suas finanças, o que as leva a tomar decisões financeiras imprudentes, como contrair empréstimos sem avaliar corretamente sua capacidade de pagamento.
 
-O planejamento financeiro é essencial para evitar o endividamento excessivo e permitir que os indivíduos alcancem seus objetivos financeiros de longo prazo. Os usuários poderão compreender melhor como estão utilizando seu dinheiro, identificar áreas de gastos desnecessários e adotar estratégias mais eficientes de gerenciamento financeiro.
+Além disso, a facilidade de acesso ao crédito muitas vezes leva as pessoas a se endividarem além de suas possibilidades. Cartões de crédito e empréstimos sem um planejamento financeiro sólido, podem levar a sérios problemas no futuro.
 
-Além disso, o software visa promover a educação financeira, capacitando os usuários a tomar decisões mais embasadas sobre suas finanças e desenvolver hábitos de consumo mais sustentáveis. Com uma abordagem mais consciente em relação ao dinheiro, é possível minimizar riscos financeiros e aumentar as chances de uma vida e aposentadoria financeiramente tranquila e segura.
+A falta de um fundo de emergência também deixa muitas famílias vulneráveis a imprevistos financeiros, como a perda de emprego ou despesas inesperadas. Sem uma reserva financeira para lidar com essas situações, muitas vezes recorrem ao endividamento para cobrir esses custos inesperados.
 
-O desenvolvimento do software foi respaldado por pesquisas abrangentes e metodologias sólidas, a fim de garantir sua eficácia e relevância para o contexto financeiro brasileiro. Dessa forma, espera-se que essa ferramenta ajude a enfrentar o desafiador problema de endividamento e contribua para a construção de uma sociedade financeiramente mais saudável e estável.
+## Objetivo
 
-## Sobre o software
-flowmy.money é software de gestão de finanças pessoais, desenvolvido com linguagem de programação PHP sobre o ecossistema do Laravel Framework utilizando as melhores práticas de programação, fornecendo um software intuitivo, seguro e performático.
+O projeto Flowmy.money surge da necessidade desenvolver um software de finanças pessoais, com o propósito de capacitar
+indivíduos com dificuldades financeiras a melhor gerir seus recursos. O software visa ajudar pessoas endividadas e/ou
+com má gestão financeira a adotar práticas mais eficientes de controle de despesas e aumento de receitas.
+
+Este projeto tem como meta primordial fornecer uma plataforma que permita aos usuários:
+
+- Planejar, prever, rastrear e monitorar suas receitas e despesas.
+- Cultivar maior consciência financeira por meio de insights e análises financeiras.
+- Estabelecer metas financeiras, por exemplo, reserva de emergência para garantir segurança financeira.
+- Desenvolver um plano para a aposentadoria e melhoria da qualidade de vida familiar a longo prazo.
+
+Através desses recursos, visamos estabilizar as finanças de pessoas financeiramente vulneráveis, proporcionando-lhes a
+oportunidade de construir um futuro financeiro mais seguro e estável.
+
+> Não deixe suas finanças ao acaso, chega de preocupações e desorganização, é hora de tomar o controle! Com [flowmy.money](http://flowmy.money/) você terá todas as informações necessárias para tomar decisões inteligentes sobre seu dinheiro, transforme o modo com que você lida com o dinheiro e administre suas finanças como nunca. [flowmy.money](http://flowmy.money/) é intuitivo, mesmo para aqueles que não têm o hábito de cuidar das finanças. Seja livre das dificuldades da administração financeira em planilhas e abra espaço para a tecnologia aliada a eficiência. 
